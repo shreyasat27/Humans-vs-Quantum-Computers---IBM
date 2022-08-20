@@ -20,8 +20,7 @@ We are working on a website to build a puzzle game using quantum circuits, quant
 #  Other material 📝
 <!-- Links to your presentation video and PDF. Please make sure they are accessible to the judges. -->
 
-[Quantum_Computer_Music_-2.pdf](/uploads/768f46bf9b18077d89894eca0bab94c6/Quantum_Computer_Music_-2.pdf)
- 
+
 
 <!-- End of Submission. Scroll above and fill up the sections as per the description -->
 
