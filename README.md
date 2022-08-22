@@ -3,11 +3,11 @@ Womanium Quantum Hackathon 2022
 # Quantum Cosmos | Quantum Learners
 
 # Current Members: <!-- up to 5 members per team -->
-- Tuce Carki
-- Shreya Satsangi,Satshreya#1082, GitHub ID 87295264, shreyasatsangi170159@dei.ac.in
+- Tuce, Tuce#4930, GitHub ID: 92291655, tucecarki1@gmail.com
+- Shreya Satsangi, Satshreya#1082, GitHub ID 87295264, shreyasatsangi170159@dei.ac.in
 - Mohamad El. Harery
-- Preeti Sharma
-- Pooja 
+- Preeti Sharma, Preeti Sharma #0772, GitHub ID 99601660, sharma.preeti.cc@gmail.com
+- Pooja Yadav, Pooja#0884, GitHub ID 5668171, 
 
 # Project Description
 We are working on a website to build a puzzle game using quantum circuits, quantum gates, quantum hardware theoritical knowledge to make players learn quantum computing and some general information about quantum mechanice. Players are given access to IBM Quantum simulators to solve the puzzle questions as they reach to the hard and moderate level of the game where are needed to code and run programmes. Till now, we have been able to make a website prototype version of the game. 
