@@ -5,7 +5,7 @@ Womanium Quantum Hackathon 2022
 # Current Members: 
 - Tuce, Tuce#4930, GitHub ID: 92291655, tucecarki0@gmail.com
 - Shreya Satsangi, Satshreya#1082, GitHub ID 87295264, shreyasatsangi170159@dei.ac.in
-- Mohamad El. Harery
+- Mohamad El. Harery, mohamedel.harery5636#1248, GitHub ID 85107448, elharerymohamed393@gmail.com
 - Preeti Sharma, Preeti Sharma #0772, GitHub ID 99601660, sharma.preeti.cc@gmail.com
 - Pooja Yadav, Pooja#0884, GitHub ID 5668171, poojayadav13032003@gmail.com
 
@@ -22,15 +22,9 @@ First, we have sign-in and sign-up options so that players can have their data s
 In the first level called Beginner, the user will have to solve a set of questions to solve puzzle having almost 10 pieces and each piece will have simple questions related to quantum circuits, quantum gates and some theoretical quantum hardware related questions which have been created from the qiskit notebook. For the moderate level, the user is then asked to solve more challenging questions to solve puzzle consisting over more pieces like 15 to 25 and more difficult questions about quantum computing, coding, and building big quantum circuits using IBM Quantum Simulators will be used to make the moderate level of the game. After these two levels, we have our final Hard level, for which we can level up the questions to make it face off human vs quantum computer by using quantum machine learning and advanced qiskit material to solve puzzle pieces which will be in the range of 50 to 100 pieces in a puzzle problem. 
 
 
-
-# Repository Link 📝
-[Quantum Cosmos](https://github.com/5636mohamed/Quantum_Cosmos)
-<!-- Link to your Git repository with the submission as per requirements. -->
-
-  
 #  Other material 📝
 
 1. Pitch deck [Quantum Cosmos (Pitch deck).pdf](https://github.com/uiafm/Humans-vs-Quantum-Computers---IBM/files/9396173/Quantum.Cosmos.Pitch.deck.pdf)
-
 2. Website Prototype (https://5636mohamed.github.io/Quantum_Cosmos/)
+3. Wesite Design for further enhancement (https://www.canva.com/design/DAFJlcYVezo/view)
 
