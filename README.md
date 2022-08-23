@@ -6,7 +6,7 @@ Womanium Quantum Hackathon 2022
 
 # Current Members: 
 - Tuce Carki, Tuce#4930, GitHub ID: 92291655, tucecarki0@gmail.com
-- Shreya Satsangi, Satshreya#1082, GitHub ID 87295264, shreyasatsangi170159@dei.ac.in
+- Shreya Satsangi, Satshreya#1082, GitHub ID 87295264, shreyasatsangi170159@dei.ac.in (Pitch Presenter)
 - Mohamad El. Harery, mohamedel.harery5636#1248, GitHub ID 85107448, elharerymohamed393@gmail.com
 - Preeti Sharma, Preeti Sharma #0772, GitHub ID 99601660, sharma.preeti.cc@gmail.com
 - Pooja Yadav, Pooja#0884, GitHub ID 5668171, poojayadav13032003@gmail.com
