@@ -32,5 +32,5 @@ In the first level called Beginner, the user will have to solve a set of questio
 
 1. Pitch deck [Quantum Cosmos (Pitch deck).pdf](https://github.com/uiafm/Humans-vs-Quantum-Computers---IBM/files/9396173/Quantum.Cosmos.Pitch.deck.pdf)
 
-2. Website Prototype 
+2. Website Prototype (https://5636mohamed.github.io/Quantum_Cosmos/)
 
