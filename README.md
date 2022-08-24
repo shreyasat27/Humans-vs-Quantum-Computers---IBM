@@ -34,7 +34,8 @@ In the first level called Beginner, the user will have to solve a set of questio
 
 #  Other material 📝
 
-1. Pitch deck [Quantum Cosmos (Pitch deck).pdf](https://github.com/uiafm/Humans-vs-Quantum-Computers---IBM/files/9396173/Quantum.Cosmos.Pitch.deck.pdf)
+1. Pitch deck[Quantum Cosmos (Pitch deck).pdf](https://github.com/uiafm/Humans-vs-Quantum-Computers---IBM/files/9411580/Quantum.Cosmos.Pitch.deck.pdf)
 2. Website Prototype (https://5636mohamed.github.io/Quantum_Cosmos/)
 3. Wesite Design for further enhancement (https://www.canva.com/design/DAFKK-YGpko/RJ3Xv6lAyw5oyaSlAXLHPA/view#2)
+
 
