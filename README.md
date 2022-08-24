@@ -38,4 +38,3 @@ In the first level called Beginner, the user will have to solve a set of questio
 2. Website Prototype (https://5636mohamed.github.io/Quantum_Cosmos/)
 3. Wesite Design for further enhancement (https://www.canva.com/design/DAFKK-YGpko/RJ3Xv6lAyw5oyaSlAXLHPA/view#2)
 
-
